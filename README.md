@@ -1,6 +1,6 @@
 Liliia Shevchenko Voice Acting Portfolio
 
-Welcome to the portfolio of Liliia Shevchenko, a passionate beginner in the field of voice acting. With two years of experience, she is continuously improving her skills and exploring various styles of voice work. This portfolio showcases her voice samples in different genres, providing an easy way to explore her growing talent. The website is available in Russian and Ukrainian, with a responsive design that adapts to any device.
+Welcome to the portfolio of Liliia Shevchenko, a passionate beginner in the field of voice acting. With two years of experience, she is continuously improving her skills and exploring various styles of voice work. This portfolio showcases her voice samples in different genres, providing an easy way to explore her growing talent. The website is available in Russian and Ukrainian, with a responsive design that adapts to any device..
 
 🌟 Key Features:
 
