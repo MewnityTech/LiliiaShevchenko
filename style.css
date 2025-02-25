@@ -44,7 +44,6 @@ nav ul li a:hover {
     color: #3A3A3A;
 }
 
-/* Для мобильных устройств */
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
@@ -88,7 +87,6 @@ main h1 {
     width: 70%;
 }
 
-/* Секция "Обо мне" */
 #about {
     display: flex;
     justify-content: space-between;
@@ -125,7 +123,6 @@ main h1 {
     background-color: #DAB9B2;
 }
 
-/* Раздел с голосовыми записями */
 #voice h2 {
     margin-bottom: 30px;
     font-size: 32px;
@@ -159,7 +156,6 @@ audio {
     border-radius: 5px;
 }
 
-/* Контактный раздел */
 #contact h2 {
     font-size: 30px;
     margin-bottom: 20px;
@@ -176,7 +172,6 @@ audio {
     color: #DAB9B2;
 }
 
-/* Разделительная линия между секциями */
 .section-divider {
     margin: 50px auto;
     width: 80%;
@@ -185,7 +180,6 @@ audio {
     border: none;
 }
 
-/* Подвал */
 footer {
     background-color: #A87363;
     padding: 15px;
@@ -195,7 +189,6 @@ footer {
     font-size: 14px;
 }
 
-/* Адаптивность для экранов 1920x1080 (ноутбуки с Full HD) */
 @media (min-width: 1200px) and (max-width: 1920px) {
     .text-content {
         max-width: 60%;
@@ -212,7 +205,6 @@ footer {
     }
 }
 
-/* Адаптивность для мобильных экранов */
 @media (max-width: 768px) {
     #about {
         flex-direction: column;
