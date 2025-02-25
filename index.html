@@ -33,7 +33,6 @@
 
         <hr class="section-divider">
 
-        <!-- Раздел голосовых записей -->
         <section id="voice">
             <h2 data-lang="voice_title">Мої голосові роботи</h2>
             <div class="voice-list">
@@ -111,8 +110,6 @@
         </section>
 
         <hr class="section-divider">
-
-        <!-- Контактный раздел -->
         <section id="contact">
             <h2 data-lang="contact_title">Контакти</h2>
             <p><strong data-lang="phone">Телефон:</strong> Viber, Telegram, WhatsApp: +38 (050) 936 53 99; Viber, Telegram, WhatsApp: +90 (538) 226 44 73.</p>
@@ -173,7 +170,6 @@
             }
         };
 
-        // Устанавливаем язык по умолчанию на украинский
         const selectedLang = 'ua';
         document.querySelectorAll('[data-lang]').forEach(el => {
             const key = el.getAttribute('data-lang');
@@ -182,7 +178,6 @@
             }
         });
 
-        // Обработчик переключения языка
         document.getElementById('languageSwitcher').addEventListener('change', function() {
             const selectedLang = this.value;
             document.querySelectorAll('[data-lang]').forEach(el => {
